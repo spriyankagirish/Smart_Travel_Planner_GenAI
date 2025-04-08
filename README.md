@@ -11,7 +11,7 @@ An intelligent travel assistant built with Streamlit and Google Gemini Pro (via 
 
 ## 🌍 Live Demo
 
-👉 [Try it out on Hugging Face Spaces](https://huggingface.co/spaces/PriyankaSG/AIpoweredTravelPlanner_GenAI)
+👉 [Try it out on Hugging Face Spaces][(https://huggingface.co/spaces/PriyankaSG/AIpoweredTravelPlanner_GenAI)](https://huggingface.co/spaces/PriyankaSG/SmartTravelPlanner_GenAI)
 
 ---
 
